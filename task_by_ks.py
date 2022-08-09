@@ -235,7 +235,7 @@ class ExtractData:
         print(len(data))
 
 obj=ExtractData('daily_failed_report')
-print() 
+ 
  
 
 
