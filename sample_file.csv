@@ -1,0 +1,18 @@
+Job Summary Report,,,,,,,,,,
+,,,,,,,,,,
+Summary,,,,,,,,,,
+Job Status,Total Jobs,Size of Application,Media Size,Protected Objects,Failed Objects,Failed Folders,,,,
+Completed with errors,113,2.79 TB,846.16 GB,"2,922,380","1,007,882","32,665",,,,
+Failed,66,0 B,0 B,0,0,0,,,,
+Killed,13,0 B,0 B,0,0,0,,,,
+Delayed,9,0 B,0 B,0,0,0,,,,
+,,,,,,,,,,
+Job Details,,,,,,,,,,
+Job ID,Client,Agent,BackupSet,SubClient,Backup Type,Start Time,Job Status,Media Agent,Failure,Virtualization Client
+11432289,ABC,Linux File System,defaultBackupSet,NFS,Synthetic Full,6/30/2021 8:00,Killed,,"Killed by process: JobManager<br><br>Waiting for job(s)  to complete.<br>Source: illin, Process: JobManager",N/A
+11432290,XYZ,Linux File System,defaultBackupSet,NFS,Incremental,6/30/2021 20:00,Killed,,"Killed by process: JobManager<br><br>Waiting for job(s)  to complete.<br>Source: illin, Process: JobManager",N/A
+11432291,POQ,Linux File System,defaultBackupSet,NFS,Incremental,7/4/2021 17:00,Delayed,linux.com,"Waiting for job(s)  to complete.<br>Source: ilcomm, Process: JobManager",N/A
+11432292,XXY,Linux File System,defaultBackupSet,NFS,Incremental,7/4/2021 20:00,Killed,,"Killed by Process. Reason:[ALREADY RUNNING ], Process: JobManager<br><br>Waiting for job(s)to complete.<br>Source: ilcom Process: JobManager",N/A
+11432293,abc,Linux File System,defaultBackupSet,NFS,Incremental,7/5/2021 6:00,Delayed,linux.com,"Waiting for job(s) to complete.<br>Source: ilcomm, Process: JobManager",N/A
+,,,,,,,,,,
+Database server Info,,,,,,,,,,

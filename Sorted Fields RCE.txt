@@ -1,0 +1,158 @@
+
+	  issuing_underwriter
+
+	  reinsurance_branch_office
+ 
+	  reinsurance_underwriter 
+
+	reinsurance_underwriter_email 
+
+	
+             reinsurance_certificate_processed_date 
+	 reinsurance_certificate_type
+              reinsurance_carrier 
+	  reinsurance_carrier_address
+                 issuing_carrier
+	issuing_carrier_branch_address 
+	reinsurance_certificate_number 
+	renewal_number
+	  policy_number
+	 company_policy_term_eff_date,
+	company_policy_term_exp_date
+	certificate_term_eff_date
+	 certificate_term_exp_date
+	total_incurred_value
+                 policy_limit_type 
+	 insured
+                reinsurer_participation 
+	perils_covergaes
+                  earthquake
+	flood_coverage 
+	 reinsurance_retention
+               reinsurance_retention_type 
+	 type_of_insurance 
+	 risk_location
+	  risk_location_street_number
+	
+	  risk_location_street_name
+	risk_location_city
+	risk_location_state 
+               risk_location_zip_code 
+	
+	 reinsurance_limit 
+	 total_reinsurance_limit
+	  reinsurance_premium
+	 total_premium
+                  commission
+                 brokerage
+	total_insurable_value
+	 exclusion
+	 layer_a_type_of_insurance 
+               layer_a_risk_location 
+	  layer_a_perils_coverages
+	  layer_a_earthquake 
+	 layer_a_flood_coverage
+	  layer_a_reinsurance_limit 
+	 layer_a_total_reinsurance_limit 
+	 layer_a_reinsurance_retention 
+         layer_a_reinsurance_retention_type 
+	 layer_a_total_incurred_value 
+	 layer_a_policy_limit_type 
+	  layer_a_risk_location_street_number
+	 layer_a_risk_location_street
+	  layer_a_risk_city 
+	   layer_a_risk_location_state
+	   layer_a_risk_location_zip_code 
+	 layer_a_reinsurance_premium
+
+	layer_b_type_of_insurance
+	 layer_b_risk_location 
+	 layer_b_perils_coverages
+	  layer_b_earthquake 
+	  layer_b_flood_coverage
+	 layer_b_reinsurance_limit  layer_b_total_reinsurance_limit
+             layer_b_reinsurance_retention
+          layer_b_reinsurance_retention_type
+	 layer_b_total_incurred_value
+	 layer_b_policy_limit_type 
+	layer_b_risk_location_street_number
+	 layer_b_risk_location_street
+	 layer_b_risk_city
+	layer_b_risk_location_state
+	 layer_b_risk_location_zip_code 
+            layer_b_reinsurance_premium 
+ 	 layer_c_type_of_insurance
+	layer_c_risk_location 
+            layer_c_perils_coverages
+	layer_c_earthquake 
+	  layer_c_flood_coverage
+             layer_c_reinsurance_limit
+	  layer_c_total_reinsurance_limit
+	  layer_c_reinsurance_retention
+        layer_c_reinsurance_retention_type
+	layer_c_total_incurred_value 
+	 layer_c_policy_limit_type 
+	 layer_c_risk_location_street_number
+	layer_c_risk_location_street
+	 layer_c_risk_city
+	 layer_c_risk_location_state 
+	 layer_c_risk_location_zip_code
+	layer_c_reinsurance_premium 
+
+
+	layer_d_type_of_insurance
+	layer_d_risk_location 
+	  layer_d_perils_coverages 
+	  layer_d_earthquake 
+	 layer_d_flood_coverage 
+            layer_d_reinsurance_limit
+	layer_d_total_reinsurance_limit 
+	 layer_d_reinsurance_retention 
+         layer_d_reinsurance_retention_type
+	  layer_d_total_incurred_value 
+	  layer_d_policy_limit_type
+	layer_d_risk_location_street_number 
+	layer_d_risk_location_street
+	  layer_d_risk_city 
+	layer_d_risk_location_state
+	 layer_d_risk_location_zip_code 
+	 layer_d_reinsurance_premium
+
+
+	layer_e_type_of_insurance
+	layer_e_risk_location 
+	 layer_e_perils_coverages
+                 layer_e_earthquake 
+	  layer_e_flood_coverage 
+	 layer_e_reinsurance_limit 
+	 layer_e_total_reinsurance_limit
+	 layer_e_reinsurance_retention 
+  	 layer_e_reinsurance_retention_type 
+  	layer_e_total_incurred_value 
+ 	 layer_e_policy_limit_type
+	  layer_e_risk_location_street_number 
+	  layer_e_risk_location_street 
+	 layer_e_risk_city
+	 layer_e_risk_location_state
+	 layer_e_risk_location_zip_code 
+	 layer_e_reinsurance_premium
+	  layer_f_type_of_insurance 
+	  layer_f_risk_location
+	 layer_f_perils_coverages,
+           layer_f_earthquake 
+	 layer_f_flood_coverage 
+	 layer_f_reinsurance_limit
+	 layer_f_total_reinsurance_limit 
+	 layer_f_reinsurance_retention
+        layer_f_reinsurance_retention_type 
+	layer_f_total_incurred_value
+	  layer_f_policy_limit_type
+	 layer_f_risk_location_street_number 
+	  layer_f_risk_location_street 
+	  layer_f_risk_city 
+	  layer_f_risk_location_state
+	 layer_f_risk_location_zip_code
+	  layer_f_reinsurance_premium 
+
+
+	
