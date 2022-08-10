@@ -168,7 +168,6 @@ data=data.drop_duplicates(subset=['Server','Subclient','Agent'], keep='last')
 data=data.drop(list(data[data['Job status'].str.contains("Delayed", na=False) & data['Failure Reason'].str.contains("Number of active streams for running jobs reaches the limit", na=False) & data['Failure Reason'].isnull()].index))
 
 #   -- Job status is Delayed and Failure Reason is null 
-
 data=data.drop(list(data[data['Job status'].str.contains("Completed",na=False) &  data['Failure Reason'].isnull()].index))
 
 # -- Job status is Delayed and Failure Reason is null and The number of running Synthetic Full jobs has Number of active streams for running jobs
@@ -181,6 +180,7 @@ data=data.drop(list(data[data['Job status'].str.contains("Completed with errors"
 # data.to_excel('C:\\Users\\Kishor Kore\\Desktop\\pandas\\master5_excel.xlsx',index=False)
 print(len(data))
  
+
 
 
 
