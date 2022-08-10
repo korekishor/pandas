@@ -51,7 +51,7 @@
 # all_data=df.iloc[from_job_id:to_describe_info]
 # print("---------------------------------",all_data)
 
-# dic=df.to_dict()
+# dic=df.to_dict() #
 # for i in dic:
 #     for j in range(len((dic[i]))):
 #         if dic[i][j]=="Job ID":
